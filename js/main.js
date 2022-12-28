@@ -1,4 +1,5 @@
 var instance = new vidbg(".video",{ 
+//    webm: "video/world.webm", // URL or relative path to webm video
     webm: "video/world.webm", // URL or relative path to webm video
     poster: "video/poster.jpg", // URL or relative path to fallback image
     overlay: false, // Boolean to display the overlay or not
